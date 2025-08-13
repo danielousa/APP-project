@@ -1,0 +1,32 @@
+<div class="tipo-utilizador-box">
+    <button routerLink="/create-tipo-utilizador" class="btn btn-primary">Adicionar TipoUtilizador</button>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th></th>
+            <th>IdTipoUtilizador</th>
+            <th>Designação</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let t of tipoUtilizadores">
+            <td>
+                <img src="assets/images/utilizador.png" alt="" style="height: 20px; width: 20px">
+            </td>
+            <td>{{ t.idTipoUtilizador }}</td>
+            <td>{{t.designcacao}}</td>
+            <td>
+                <button *ngIf="t" [routerLink]="['/update-tipo-utilizador/' + t.idTipoUtilizador]"
+                    routerLinkActive="active" class="btn btn-warning">Update</button>
+            </td>
+            <td>
+                <button *ngIf="t" [routerLink]="['/delete-tipo-utilizador/' + t.idTipoUtilizador]"
+                    routerLinkActive="active" class="btn btn-danger">Delete</button>
+            </td>
+        </tr>
+    </tbody>
+</table>

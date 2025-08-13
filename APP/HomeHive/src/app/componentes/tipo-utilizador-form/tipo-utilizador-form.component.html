@@ -1,0 +1,86 @@
+
+<h1 class="display-4">{{btnTitulo}}</h1>
+
+<form  (ngSubmit)="submit()" #formDit="ngForm" class="mt-4">
+
+    <div class="input-box mb-3">
+        <label for="Designcacao" class="form-label">Designação:</label>
+        <input type="text" formControlName="Designcacao" class="form-control" placeholder="Insira a designação!" required>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <div class="btn-box">
+        <button type="submit" class="btn btn-primary" [disabled]="!tipoUtilizadorForm.valid">{{btnAcao}}</button>
+        <a routerLink="" class="btn btn-secondary ms-2">Voltar</a>
+    </div>
+
+</form>

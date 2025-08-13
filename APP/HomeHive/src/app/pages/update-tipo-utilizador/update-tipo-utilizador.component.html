@@ -1,0 +1,16 @@
+<h1 class="display-4">{{btnTitulo}}</h1>
+
+<form [formGroup]="updateForm" (ngSubmit)="updateTipoUtilizador()" class="mt-4">
+
+    <div class="input-box mb-3">
+        <label for="Designcacao" class="form-label">Designação:</label>
+        <input type="text" [(ngModel)]="tipoUtilizador.designcacao" formControlName="Designacao" class="form-control"
+            placeholder="Insira a designação!" required>
+    </div>
+
+    <div class="btn-box">
+        <button type="submit" class="btn btn-primary">{{btnAcao}}</button>
+        <a routerLink="" class="btn btn-secondary ms-2">Voltar</a>
+    </div>
+
+</form>
