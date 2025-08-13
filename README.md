@@ -93,4 +93,52 @@ Examples of sprints/backlog items to include in Trello and sprint simulation:
 15. The system must provide a real-time chat for communication between the condominium administrator and the resident.
 16. The user must be able to choose between dark mode and light mode in the system.
 
+# Sprints (Features Distributed Across Sprints)
+
+Sprint (1): Planning and Primary Configuration
+
+In this sprint, the team will work to define the project context and set up the development environment.
+Activities:
+
+1. Hold a sprint planning meeting to define the sprint objectives.
+2. Define the tools and technologies to be used.
+3. Define the overall design of the interfaces.
+
+Sprint (2): Core Features
+
+In this sprint, the team will develop the basic functionalities of the application.
+Activities:
+
+1. The system must only allow authenticated users.
+2. The resident can view their account statement.
+3. The resident can select an invoice for payment.
+4. The system must allow payment via MBWay.
+5. The system must provide condominium information, such as: Tax Identification Number (NIF), IBAN, building details, etc.
+6. The condominium administrator can check which residents are in debt to the condominium.
+7. The condominium administrator can send notifications to residents.
+8. The resident can view their notifications.
+9. The condominium administrator can register services performed in the condominium, such as cleaning, maintenance, etc.
+
+Sprint (3): Secondary Features and Enhancements
+
+In this sprint, the team will develop additional functionalities that allow users to interact more deeply with the application.
+Activities:
+
+1. The resident can register incidents and suggestions for the condominium.
+2. The condominium administrator can view incidents and suggestions submitted by the resident.
+3. The system must provide entity and reference information for payment.
+4. The resident must be able to use English (US) and English (UK) as the application language.
+5. The system must be usable by people with visual impairments.
+
+Sprint (4): Testing and Final Reviews
+
+In this sprint, the team will carry out final testing and fix pending issues before the final delivery of the project.
+Activities:
+
+1. Perform final and usability tests;
+2. Fix any identified issues.
+3. Make final adjustments to the user interface.
+
+Post-development: After the product delivery, and if the client decides so in the future, the lower-priority requirements that were initially discarded may be developed later.
+
 
