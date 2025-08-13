@@ -12,4 +12,10 @@ Finally, we used ChatGPT to generate dummy (fictitious) data, which we inserted 
 
 <img width="1336" height="687" alt="Captura de ecrã 2025-08-13 185648" src="https://github.com/user-attachments/assets/95bdb550-16b6-4404-af36-40e007c69c56" />
 
+# Entity Dictionary
+
+<img width="829" height="447" alt="Captura de ecrã 2025-08-13 191157" src="https://github.com/user-attachments/assets/b523f162-132d-49b0-9276-9cee77329cd4" />
+
+
+
 
