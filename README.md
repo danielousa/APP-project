@@ -9,3 +9,13 @@ The project was developed and organized following Agile methodology and Scrum
 framework, to have a better distribution of tasks among group members, consequently
 leading to faster and more efficient development. Using SQL Server for our database, C# for API
 development, and Angular 4 for the WebApp.
+
+# Context
+
+In an increasingly digital and interconnected global context, the efficient management of condominiums has become an immediate necessity to promote organization, transparency, and effectiveness in the administration of shared residential spaces. In this context, the development of a specialized app for condominium management, aimed at property management companies, emerges as a strategic and essential choice.
+
+The importance of this app lies largely in its ability to simplify and streamline complex processes associated with condominium administration, particularly regarding the interaction between managers and residents. From financial management and communication between residents and administration, to booking common spaces and resolving structural issues, a condominium management app offers a centralized and easily accessible platform.
+
+Through this app, residents can easily access relevant information such as payment invoices for condominium fees, maintenance notices, and building repairs, and even make monthly fee payments securely and conveniently. For managers, the app offers effective management tools, enabling the monitoring of building conditions, proactive communication with tenants, and more efficient execution of administrative tasks.
+
+The decision to create a dedicated condominium management app reflects the need to adapt to the digital world, providing innovative solutions that simplify and improve community living.
