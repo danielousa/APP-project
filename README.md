@@ -19,3 +19,16 @@ The importance of this app lies largely in its ability to simplify and streamlin
 Through this app, residents can easily access relevant information such as payment invoices for condominium fees, maintenance notices, and building repairs, and even make monthly fee payments securely and conveniently. For managers, the app offers effective management tools, enabling the monitoring of building conditions, proactive communication with tenants, and more efficient execution of administrative tasks.
 
 The decision to create a dedicated condominium management app reflects the need to adapt to the digital world, providing innovative solutions that simplify and improve community living.
+
+# Objectives
+
+Purpose of the system (context and objectives):
+
+A condominium management app aimed at property management companies, incorporating different tasks and actions (e.g., inquiries and payments, issue reporting, message sending, KPI visualization, among others), to streamline interactions between residents and managers.
+
+# Stakeholders
+
+Stakeholders (Clients and users) and how the system impacts their lives:
+
+An app to manage condominiums, in which users can consult and make payments, send messages to the manager, and report daily issues to the management company. On the other hand, managers will be able to view KPIs, send notifications/alerts/messages, and register services. In short, this integrated system would facilitate the management of these services by the company and improve the user experience for residents.
+
