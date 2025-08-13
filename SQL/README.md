@@ -1,6 +1,4 @@
-# Database
-
-Development Technologies
+# Development Technologies
 
 For the implementation of the project's database, we used Microsoft SQL Server Management Studio (version 19.3), with a prior creation of the relational model diagram using Draw.io.
 
