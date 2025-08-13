@@ -23,8 +23,15 @@ Finally, we used ChatGPT to generate dummy (fictitious) data, which we inserted 
 # Attributes (name, description, data type, domain, PK, FK, null)
 
 <img width="660" height="468" alt="image" src="https://github.com/user-attachments/assets/843d4a7b-e8e5-497e-a074-39ed0b44a4c9" />
-
 <img width="828" height="196" alt="image" src="https://github.com/user-attachments/assets/5f818067-abed-4ca9-985b-99db2aec15b7" />
+<img width="824" height="388" alt="image" src="https://github.com/user-attachments/assets/86032759-f890-46ae-90b1-ea6f713ed8a1" />
+<img width="937" height="219" alt="image" src="https://github.com/user-attachments/assets/1959e326-aafc-43df-bb95-1e6d04240c12" />
+<img width="769" height="431" alt="image" src="https://github.com/user-attachments/assets/eb874ed3-c0dc-4528-89e9-f9255344afec" />
+
+
+
+
+
 
 
 
