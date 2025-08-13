@@ -8,4 +8,4 @@ providing a wide variety of management tools and financial consultation for thei
 The project was developed and organized following Agile methodology and Scrum
 framework, to have a better distribution of tasks among group members, consequently
 leading to faster and more efficient development. Using SQL Server for our database, C# for API
-development, and Angular 4 for the WebApp
+development, and Angular 4 for the WebApp.
