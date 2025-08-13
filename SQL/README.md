@@ -7,3 +7,9 @@ Initially, we designed the relational model, establishing all entities, attribut
 After creating the database, we proceeded to implement CRUD procedures and some triggers that we considered necessary, particularly to restrict the user ID in certain tables to only one acceptable user type.
 
 Finally, we used ChatGPT to generate dummy (fictitious) data, which we inserted into our database to perform testing.
+
+# ER-Diagram
+
+<img width="1336" height="687" alt="Captura de ecrã 2025-08-13 185648" src="https://github.com/user-attachments/assets/95bdb550-16b6-4404-af36-40e007c69c56" />
+
+
