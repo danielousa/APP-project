@@ -32,3 +32,33 @@ Stakeholders (Clients and users) and how the system impacts their lives:
 
 An app to manage condominiums, in which users can consult and make payments, send messages to the manager, and report daily issues to the management company. On the other hand, managers will be able to view KPIs, send notifications/alerts/messages, and register services. In short, this integrated system would facilitate the management of these services by the company and improve the user experience for residents.
 
+# Requirement Prioritization (MoSCoW Technique)
+
+M (Must have):
+
+The system must only allow authenticated users.
+The resident can view their account statement.
+The resident can select an invoice for payment.
+The system must allow payment via MBWay.
+The system must provide condominium information, such as: Tax Identification Number (NIF), IBAN, building details, etc.
+The condominium administrator can check which residents are in debt to the condominium.
+The condominium administrator can send notifications to residents.
+The resident can view their notifications.
+The condominium administrator can register services performed in the condominium, such as cleaning, maintenance, etc.
+
+S (Should have):
+
+The resident can register incidents and suggestions for the condominium.
+The condominium administrator can view incidents and suggestions submitted by the resident.
+
+C (Could have):
+
+The system should provide entity and reference information for payments.
+The user should be able to choose English (US) and English (UK), in addition to the already established Portuguese (Portugal).
+The application should be accessible to people with visual impairments.
+
+W (Won’t have):
+
+The system should provide a real-time chat for communication between the condominium administrator and the resident.
+The user should be able to choose between dark mode and light mode in the app.
+
