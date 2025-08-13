@@ -16,6 +16,11 @@ Finally, we used ChatGPT to generate dummy (fictitious) data, which we inserted 
 
 <img width="829" height="447" alt="Captura de ecrã 2025-08-13 191157" src="https://github.com/user-attachments/assets/b523f162-132d-49b0-9276-9cee77329cd4" />
 
+# Relationship Cardinality
+
+<img width="560" height="447" alt="image" src="https://github.com/user-attachments/assets/13ff9b95-69b8-41b4-9a87-cfce0e631125" />
+
+
 
 
 
