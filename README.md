@@ -36,29 +36,29 @@ An app to manage condominiums, in which users can consult and make payments, sen
 
 M (Must have):
 
-The system must only allow authenticated users.
-The resident can view their account statement.
-The resident can select an invoice for payment.
-The system must allow payment via MBWay.
-The system must provide condominium information, such as: Tax Identification Number (NIF), IBAN, building details, etc.
-The condominium administrator can check which residents are in debt to the condominium.
-The condominium administrator can send notifications to residents.
-The resident can view their notifications.
-The condominium administrator can register services performed in the condominium, such as cleaning, maintenance, etc.
+1. The system must only allow authenticated users.
+2. The resident can view their account statement.
+3. The resident can select an invoice for payment.
+4. The system must allow payment via MBWay.
+5. The system must provide condominium information, such as: Tax Identification Number (NIF), IBAN, building details, etc.
+6. The condominium administrator can check which residents are in debt to the condominium.
+7. The condominium administrator can send notifications to residents.
+8. The resident can view their notifications.
+9. The condominium administrator can register services performed in the condominium, such as cleaning, maintenance, etc.
 
 S (Should have):
 
-The resident can register incidents and suggestions for the condominium.
-The condominium administrator can view incidents and suggestions submitted by the resident.
+1. The resident can register incidents and suggestions for the condominium.
+2. The condominium administrator can view incidents and suggestions submitted by the resident.
 
 C (Could have):
 
-The system should provide entity and reference information for payments.
-The user should be able to choose English (US) and English (UK), in addition to the already established Portuguese (Portugal).
-The application should be accessible to people with visual impairments.
+1. The system should provide entity and reference information for payments.
+2. The user should be able to choose English (US) and English (UK), in addition to the already established Portuguese (Portugal).
+3. The application should be accessible to people with visual impairments.
 
 W (Won’t have):
 
-The system should provide a real-time chat for communication between the condominium administrator and the resident.
-The user should be able to choose between dark mode and light mode in the app.
+1. The system should provide a real-time chat for communication between the condominium administrator and the resident.
+2. The user should be able to choose between dark mode and light mode in the app.
 
