@@ -76,21 +76,21 @@ The methodology used for this project is Agile, with the SCRUM framework.
 
 Examples of sprints/backlog items to include in Trello and sprint simulation:
 
-1 – The system must only allow authenticated users.
-2 – The resident can view their account statement.
-3 – The resident can select an invoice for payment.
-4 – The system must allow payment via MBWay.
-5 – The system must provide condominium information, such as: Tax Identification Number (NIF), IBAN, building details, etc.
-6 – The condominium administrator can check which residents are in debt to the condominium.
-7 – The condominium administrator can send notifications to residents.
-8 – The resident can view their notifications.
-9 – The condominium administrator can register services performed in the condominium, such as cleaning, maintenance, gardening, etc.
-10 – The resident can register incidents and suggestions for the condominium.
-11 – The condominium administrator can view incidents and suggestions submitted by the resident.
-12 – The system must provide entity and reference information for payment.
-13 – The resident must be able to use English (US) and English (UK) as the application language.
-14 – The system must be usable by people with visual impairments.
-15 – The system must provide a real-time chat for communication between the condominium administrator and the resident.
-16 – The user must be able to choose between dark mode and light mode in the system.
+1. The system must only allow authenticated users.
+2. The resident can view their account statement.
+3. The resident can select an invoice for payment.
+4. The system must allow payment via MBWay.
+5. The system must provide condominium information, such as: Tax Identification Number (NIF), IBAN, building details, etc.
+6. The condominium administrator can check which residents are in debt to the condominium.
+7. The condominium administrator can send notifications to residents.
+8. The resident can view their notifications.
+9. The condominium administrator can register services performed in the condominium, such as cleaning, maintenance, gardening, etc.
+10. The resident can register incidents and suggestions for the condominium.
+11. The condominium administrator can view incidents and suggestions submitted by the resident.
+12. The system must provide entity and reference information for payment.
+13. The resident must be able to use English (US) and English (UK) as the application language.
+14. The system must be usable by people with visual impairments.
+15. The system must provide a real-time chat for communication between the condominium administrator and the resident.
+16. The user must be able to choose between dark mode and light mode in the system.
 
 
