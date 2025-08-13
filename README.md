@@ -141,4 +141,9 @@ Activities:
 
 Post-development: After the product delivery, and if the client decides so in the future, the lower-priority requirements that were initially discarded may be developed later.
 
+# Storyboard Agile (Trello)
+
+<img width="1648" height="704" alt="Captura de ecrã 2025-08-13 183929" src="https://github.com/user-attachments/assets/f6563153-1e06-4127-a964-e566f8f55144" />
+
+
 
