@@ -36,6 +36,20 @@ Next, for the frontend, we used Microsoft Visual Studio Code, utilizing the Angu
 # Successful deletion TipoServico
 <img width="1069" height="570" alt="image" src="https://github.com/user-attachments/assets/3277db26-70e3-4970-8c06-cd6b549c366c" />
 
+# Servico Page
+<img width="1064" height="381" alt="image" src="https://github.com/user-attachments/assets/524e97d0-8854-4f0a-bc57-1080e0b56eb5" />
+
+# View All Servico
+<img width="1073" height="574" alt="image" src="https://github.com/user-attachments/assets/9678c737-374a-4c4c-972c-9de65ec95e9e" />
+
+# Create Servico
+<img width="1058" height="568" alt="image" src="https://github.com/user-attachments/assets/7320759f-58a4-48a2-b097-33b9569efb4f" />
+
+
+
+
+
+
 
 
 
