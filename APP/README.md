@@ -21,6 +21,44 @@ Next, for the frontend, we used Microsoft Visual Studio Code, utilizing the Angu
 # Successful creation of CodigoPostal
 <img width="1049" height="512" alt="image" src="https://github.com/user-attachments/assets/487a354e-4696-432c-891c-066f57cdf51a" />
 
+# Update CodigoPostal
+<img width="1042" height="507" alt="image" src="https://github.com/user-attachments/assets/fb5968fc-21e7-4b07-b788-84ab5d0708f0" />
+
+# Successful update of CodigoPostal
+<img width="1022" height="500" alt="image" src="https://github.com/user-attachments/assets/93469ee2-ab4f-4d65-90d3-e9643091011b" />
+
+# Delete CodigoPostal
+<img width="1050" height="509" alt="image" src="https://github.com/user-attachments/assets/80fba8b2-8797-4193-af5e-549a7b50b080" />
+
+# Successful deletion of CodigoPostal
+<img width="1064" height="517" alt="image" src="https://github.com/user-attachments/assets/4b2fa0ad-d34f-442c-aef7-fecadc8f87ec" />
+
+# Read CodigoPostal
+<img width="1064" height="522" alt="image" src="https://github.com/user-attachments/assets/035e30b8-9a74-4ddc-848f-17c64c5ea4a7" />
+
+# Successful reading of CodigoPostal
+<img width="1062" height="520" alt="image" src="https://github.com/user-attachments/assets/c339904c-d295-4457-a32c-f756621fdd60" />
+
+# HomePage Condominios
+<img width="1074" height="532" alt="image" src="https://github.com/user-attachments/assets/933b33e7-a0b4-492a-aebc-0858c536aa74" />
+
+# View All Condominios
+<img width="1083" height="526" alt="image" src="https://github.com/user-attachments/assets/e470d311-0abb-486c-92b8-c41bae76bd4a" />
+
+# Read Condominios
+<img width="1041" height="510" alt="image" src="https://github.com/user-attachments/assets/eb1d1b29-71e3-421a-aaf3-2c4f5a230848" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
