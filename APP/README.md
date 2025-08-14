@@ -21,6 +21,16 @@ Next, for the frontend, we used Microsoft Visual Studio Code, utilizing the Angu
 # Successful creation TipoServico 
 <img width="1060" height="568" alt="image" src="https://github.com/user-attachments/assets/a611dade-32f2-4f72-97ba-1ee0c9dec777" />
 
+# Read TipoServico
+<img width="1066" height="573" alt="image" src="https://github.com/user-attachments/assets/9bc8af40-d9ad-44fa-ad2a-3e9812976945" />
+
+# Update TipoServico
+<img width="1055" height="565" alt="image" src="https://github.com/user-attachments/assets/2d7463d5-5294-44c6-b22e-e1753d7cf128" />
+
+
+
+
+
 
 
 
