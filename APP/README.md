@@ -14,6 +14,18 @@ Next, for the frontend, we used Microsoft Visual Studio Code, utilizing the Angu
 
 <img width="1004" height="492" alt="image" src="https://github.com/user-attachments/assets/3b281e9a-e429-447a-900b-f552de826da6" />
 
+# View All CodigoPostal
+
+<img width="1004" height="489" alt="image" src="https://github.com/user-attachments/assets/d27919de-05d1-40b0-b43b-50a6edb4213b" />
+
+# Create CodigoPostal
+
+<img width="1045" height="510" alt="image" src="https://github.com/user-attachments/assets/451a31b9-90d4-4e4d-a2f5-bdc8ea62c6a0" />
+
+
+
+
+
 
 
 
