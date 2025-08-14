@@ -57,6 +57,20 @@ Next, for the frontend, we used Microsoft Visual Studio Code, utilizing the Angu
 # Successful creation TipoUtilizador
 <img width="890" height="497" alt="image" src="https://github.com/user-attachments/assets/388ac9b9-95b9-4049-8ea3-9ca8f0fc5551" />
 
+# Delete TipoUtilizador
+<img width="882" height="470" alt="image" src="https://github.com/user-attachments/assets/7b78b10a-7695-403b-b070-8e5ec5cfe06c" />
+
+# Successful deletion TipoUtilizador
+<img width="879" height="462" alt="image" src="https://github.com/user-attachments/assets/d1980c83-08ed-4bba-9ebd-160bfea66021" />
+
+# Update TipoUtilizador
+<img width="881" height="481" alt="image" src="https://github.com/user-attachments/assets/34c12f72-cbc8-4940-afd5-3cb09ad9f5d0" />
+
+
+
+
+
+
 
 
 
