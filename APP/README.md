@@ -45,6 +45,21 @@ Next, for the frontend, we used Microsoft Visual Studio Code, utilizing the Angu
 # Create Servico
 <img width="1058" height="568" alt="image" src="https://github.com/user-attachments/assets/7320759f-58a4-48a2-b097-33b9569efb4f" />
 
+# Successful creation Servico
+<img width="1094" height="584" alt="image" src="https://github.com/user-attachments/assets/f409d92e-31f0-418d-8b49-e4df9cfe667f" />
+
+# View All TipoUtilizador
+<img width="896" height="484" alt="image" src="https://github.com/user-attachments/assets/2a5053a0-bf46-43d8-a28d-6cdcc84d10b7" />
+
+# Create TipoUtilizador
+<img width="884" height="520" alt="image" src="https://github.com/user-attachments/assets/490c8a92-ff2f-4cc2-938a-158a315b63da" />
+
+# Successful creation TipoUtilizador
+<img width="890" height="497" alt="image" src="https://github.com/user-attachments/assets/388ac9b9-95b9-4049-8ea3-9ca8f0fc5551" />
+
+
+
+
 
 
 
